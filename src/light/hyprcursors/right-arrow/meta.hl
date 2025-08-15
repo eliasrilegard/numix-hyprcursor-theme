@@ -1,0 +1,4 @@
+hotspot_x = 0.5 # 1.0?
+hotspot_y = 0.5
+
+define_size = 0, right-arrow.svg
